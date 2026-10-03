@@ -1,5 +1,5 @@
-Stop or Go keeps one pretend street light on the phone. It starts red. Yellow comes next, then green, then red again. A skip stays put. The huge line says Stop, Wait, or Go.
+The Street Light keeps one pretend street light on the phone. The phone shows Stop or Go. It starts red. Yellow comes next, then green, then red again. A skip stays put. The huge line says Stop, Wait, or Go.
 
 The light stays on this phone. Start a new light when you want it red again.
 
-Stop or Go does not use an account, ads, a camera, a clock, a car, or a network connection. It does not time a crossing. The light in the app is original.
+The Street Light does not use an account, ads, a camera, a clock, a car, or a network connection. It does not time a crossing. The light in the app is original.
