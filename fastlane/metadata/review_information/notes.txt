@@ -1,0 +1,1 @@
+Stop or Go is an offline pretend street light. It starts red. Make it yellow, then green, then red. A skip stays on the current color. The huge line says Stop, Wait, or Go. New light starts over after you confirm. The light remains after you leave the app. There is no account, no camera, no clock, no car, and no network use.

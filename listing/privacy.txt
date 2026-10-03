@@ -1,0 +1,5 @@
+Stop or Go privacy
+
+Stop or Go stores the current light on this phone. The light is red, yellow, or green.
+
+The app does not collect personal data. It does not use an account, ads, a camera, a clock, a car, or a network connection. Nothing is sent off the phone.

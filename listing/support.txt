@@ -1,0 +1,5 @@
+Stop or Go support
+
+Stop or Go keeps one pretend street light. Tap Make it red, Make it yellow, or Make it green. The light only moves forward one color. The huge line says Stop, Wait, or Go.
+
+The light stays on this phone. The app does not use an account. For help, write to peaker.map@gmail.com.

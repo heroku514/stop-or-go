@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "StopOrGo",
+    "slug": "stop-or-go",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "scheme": "stoporgo",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.peakermap.stoporgo",
+      "buildNumber": "1",
+      "infoPlist": {
+        "CFBundleDisplayName": "Stop or Go",
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#F4F1EA",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
